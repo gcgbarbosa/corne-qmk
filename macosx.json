@@ -85,7 +85,7 @@
       "KC_PGDN",
       "KC_PGUP",
       "KC_END",
-      "KC_NO",
+      "LSFT(KC_TAB)",
       "LALT(KC_BSLS)",
       "KC_TRNS",
       "KC_TRNS",
@@ -95,7 +95,7 @@
       "MS_ACL2"
     ],
     [
-      "KC_WBAK",
+      "LGUI(KC_LEFT)",
       "KC_EXLM",
       "KC_AT",
       "KC_HASH",
@@ -106,7 +106,7 @@
       "KC_ASTR",
       "KC_LPRN",
       "KC_RPRN",
-      "KC_WFWD",
+      "LGUI(KC_RGHT)",
       "KC_F1",
       "KC_F2",
       "KC_F3",
