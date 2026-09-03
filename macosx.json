@@ -43,7 +43,7 @@
       "KC_DOT",
       "KC_SLSH",
       "LCA(KC_F1)",
-      "LCTL(KC_LCTL)",
+      "LCTL(KC_BSLS)",
       "MO(1)",
       "KC_BSPC",
       "KC_SPC",
@@ -58,9 +58,9 @@
       "MS_BTN3",
       "KC_NO",
       "LCA(KC_LEFT)",
-      "LCA(KC_DOWN)",
-      "LCA(KC_UP)",
-      "LCA(KC_RGHT)",
+      "LSA(KC_DOWN)",
+      "LSA(KC_UP)",
+      "LSA(KC_RGHT)",
       "KC_NO",
       "KC_NO",
       "KC_CAPS",
@@ -131,12 +131,12 @@
       "KC_RCBR",
       "KC_PIPE",
       "KC_TILD",
-      "LAG(KC_SPC)",
       "ANY(LGUI(LCTL(KC_SPC)))",
+      "KC_NO",
       "KC_DEL",
       "KC_TRNS",
       "KC_TRNS",
-      "KC_TRNS"
+      "DF(4)"
     ],
     [
       "KC_NO",
@@ -175,9 +175,9 @@
       "KC_NO",
       "KC_NO",
       "KC_NO",
-      "DF(4)",
       "KC_TRNS",
       "KC_TRNS",
+      "LAG(KC_SPC)",
       "KC_TRNS",
       "KC_TRNS",
       "KC_TRNS"
@@ -224,7 +224,7 @@
       "KC_BSPC",
       "KC_SPC",
       "MO(5)",
-      "KC_LSFT"
+      "KC_TRNS"
     ],
     [
       "KC_NO",
@@ -263,12 +263,12 @@
       "KC_F16",
       "KC_F17",
       "KC_F18",
-      "DF(0)",
       "KC_TRNS",
       "KC_TRNS",
       "KC_TRNS",
       "KC_TRNS",
-      "KC_TRNS"
+      "KC_TRNS",
+      "DF(0)"
     ]
   ],
   "author": ""
